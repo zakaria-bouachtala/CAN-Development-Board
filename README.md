@@ -19,9 +19,15 @@ the board can be used for several CAN_bus purpose-based applications, as the nod
 # PCB Details :
 for the electric schematic and the integrated circuit design we are using the free version of KIcad 5 
 >Our (153.42 mm* 98.04 mm) PCB comes with 2 layers and through-Hole technology (THT) component
+# Schematic :
+![t](https://user-images.githubusercontent.com/61091193/142782268-7dd118d5-9e75-43ad-a379-3a957a71bf1e.png)
+# Footprint :
+![Capture](https://user-images.githubusercontent.com/61091193/142783447-89a77ec9-6aa8-42f9-b2c6-2592cc402336.PNG)
+# 3D VIEW of the PCB
+![_autosave-test1](https://user-images.githubusercontent.com/61091193/142782687-f98acd27-0b4f-4ecf-b51a-c6b085131a02.png)
 # Future Features :
-* *First half* : add a built-in bootloaders in the board to allow direct programming of the MCUs
-* *second half* : Replacing the Node's MCUs with esp32 modules to support the OTA(over the air) Programming and add more wireless features and IoT concepts
+* *First half* : add an integrated bootloaders in the circuit to allow direct programming of the MCUs without the need of external Programmer.
+* *second half* : Replacing the Node's MCUs with esp32 modules to support the OTA(over the air) Programming and add more wireless features and IoT concepts to the circuit
 # Refrences :
 * You can find here more component libraries : [Kicad Library](https://www.digikey.com/en/resources/design-tools/kicad)
 * For more details about the MCU used in the board (PIC18F25K80) you can visit their official website : [Microship PIC18F](microchip.com/en-us/product/PIC18F25K80)
