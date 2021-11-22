@@ -1,0 +1,5 @@
+                         
+        
+        ########################################IMPORTANT#####################################
+
+the project is under development for now, the PCB and Gerber files will be added later for those who wants to print the module for their personal applications.
